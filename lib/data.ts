@@ -1,7 +1,7 @@
 export const projectsData = [
     {
       id: 1,
-      image: '/projects/01.png',
+      image: '/01.png',
       category: 'Front-end',
       title: 'Figma to react/nextjs',
       description:
@@ -9,7 +9,7 @@ export const projectsData = [
     },
     {
       id: 2,
-      image: '/projects/02.png',
+      image: '/02.png',
       category: 'Full-stack',
       title: ' Github API',
       description:
@@ -17,7 +17,7 @@ export const projectsData = [
     },
     {
       id: 3,
-      image: '/projects/03.png',
+      image: '/03.png',
       category: 'Full-stack',
       title: ' Graphql By example',
       description:
