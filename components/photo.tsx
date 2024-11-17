@@ -23,13 +23,7 @@ const Photo = () => {
           }}
           className='absolute z-40'
         >
-          <Image
-            src=''
-            height={480}
-            width={350}
-            alt='pro'
-            className='inset-0 z-40 object-contain xl:translate-y-[3px]'
-          />
+          
         </motion.div>
         <motion.div
           initial={{ opacity: 0 }}
